@@ -1,0 +1,3 @@
+/Users/xayotbek/Desktop/ITP Labs/additional/cmake-build-debug/CMakeFiles/additional.dir
+/Users/xayotbek/Desktop/ITP Labs/additional/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xayotbek/Desktop/ITP Labs/additional/cmake-build-debug/CMakeFiles/rebuild_cache.dir

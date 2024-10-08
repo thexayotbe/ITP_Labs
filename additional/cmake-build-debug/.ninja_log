@@ -1,0 +1,6 @@
+# ninja log v6
+4	30	1726238115874508662	CMakeFiles/additional.dir/lab.c.o	3f0a3057c76414e6
+37	72	1726243428948911864	additional	c4ffa150e9d1b609
+1	37	1726243428912691633	CMakeFiles/additional.dir/main.c.o	fcc6fd6fad5b8de6
+1	45	1726572153795914063	build.ninja	cd07dec43c8b72a9
+1	121	1726571996364715260	CMakeFiles/additional.dir/lab/lab.c.o	c155ab7537687722
